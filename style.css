@@ -88,13 +88,13 @@ section {
      width: 25%;
      float: left;
 }
-/* .col-1 {
+.col-1 {
      width: 70%;
      font-size: 1.2em;
      font-weight: 300;
      margin: 0px 5px 0px 0px;
-     float: center;
-} */
+     text-align: center;
+}
 .row, .author-row, .affil-row {
      overflow: auto;
 }
