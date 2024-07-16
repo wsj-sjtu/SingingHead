@@ -84,7 +84,7 @@ section {
 }
 .col-3 {
      width: 20%;
-     float: left;
+/*      float: left; */
      font-size: 1.2em;
      font-weight: 300;
      margin: 0 auto;
