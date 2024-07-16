@@ -58,7 +58,7 @@ h5 {
     padding: 16px 0px 16px 0px;
 }
 section {
-    margin: 32px 0px 32px 0px;
+    margin: 50px 0px 50px 0px;
     text-align: justify;
     clear: both;
 }
@@ -92,7 +92,6 @@ section {
      width: 70%;
      font-size: 1.2em;
      font-weight: 300;
-     margin: 500px 0px 0px 0px;
      text-align: center;
 }
 .row, .author-row, .affil-row {
