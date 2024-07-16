@@ -77,7 +77,6 @@ section {
 /*      float: left; */
      font-size: 1.2em;
      font-weight: 300;
-     text-align: center;
 }
 .col-4 {
      width: 25%;
@@ -88,7 +87,6 @@ section {
 /*      float: left; */
      font-size: 1.2em;
      font-weight: 300;
-     text-align: center;
 }
 .col-2 {
      width: 25%;
