@@ -58,7 +58,7 @@ h5 {
     padding: 16px 0px 16px 0px;
 }
 section {
-    margin: 50px 0px 50px 0px;
+    margin: 32px 0px 32px 0px;
     text-align: justify;
     clear: both;
 }
@@ -73,9 +73,9 @@ section {
      float: left;
 }
 .col-5 {
-     width: 25%;
-/*      float: left; */
-     font-size: 1.1em;
+     width: 20%;
+     float: left;
+     font-size: 1.2em;
      font-weight: 300;
 }
 .col-4 {
@@ -83,9 +83,9 @@ section {
      float: left;
 }
 .col-3 {
-     width: 25%;
-/*      float: left; */
-     font-size: 1.1em;
+     width: 33%;
+     float: left;
+     font-size: 1.2em;
      font-weight: 300;
 }
 .col-2 {
