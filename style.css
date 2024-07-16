@@ -73,7 +73,7 @@ section {
      float: left;
 }
 .col-5 {
-     width: 20%;
+     width: 15%;
      float: left;
      font-size: 1.2em;
      font-weight: 300;
@@ -83,7 +83,7 @@ section {
      float: left;
 }
 .col-3 {
-     width: 33%;
+     width: 20%;
      float: left;
      font-size: 1.2em;
      font-weight: 300;
