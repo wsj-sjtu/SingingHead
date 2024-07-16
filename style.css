@@ -88,6 +88,10 @@ section {
      width: 25%;
      float: left;
 }
+.col-1 {
+     width: 50%;
+     float: center;
+}
 .row, .author-row, .affil-row {
      overflow: auto;
 }
