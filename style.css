@@ -90,6 +90,7 @@ section {
 }
 .col-1 {
      width: 70%;
+     margin: 5px 0px 0px 0px;
      float: center;
 }
 .row, .author-row, .affil-row {
