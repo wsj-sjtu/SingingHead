@@ -50,6 +50,12 @@ h5 {
     font-weight: 300;
     margin: 0px 0px 0px 0px;
 }
+table {
+    width: 100%;
+    border-collapse: collapse; /* 去除单元格之间的空隙 */
+    font-size: 1.2em;
+    font-weight: 300;
+}
 /* h6{
     text-align: center;
     font-size: 0.88em;
