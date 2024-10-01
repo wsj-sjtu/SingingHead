@@ -1,5 +1,5 @@
 # SingingHead: A Large-scale 4D Dataset for Singing Head Animation
-## [arXiv](https://arxiv.org/pdf/2312.04369.pdf) | [Project Page](https://wsj-sjtu.github.io/SingingHead/) | [Dataset]()
+## [arXiv](https://arxiv.org/pdf/2312.04369.pdf) | [Project Page](https://wsj-sjtu.github.io/SingingHead/) | [Dataset](https://huggingface.co/datasets/Human-X/SingingHead)
 
 <img src="assets/teaser.png" /> 
 
