@@ -10,6 +10,22 @@
 
 ## SingingHead Dataset
 ### Download
+The dataset can be downloaded from [Hugging Face](https://huggingface.co/datasets/Human-X/SingingHead).
+
+If you are unable to download from Hugging Face, please first fill out the required information on [Hugging Face](https://huggingface.co/datasets/Human-X/SingingHead) to obtain authorization, and then contact us [(wusijing@sjtu.edu.cn)](wusijing@sjtu.edu.cn) using the same email address to get the download link of Baidu (百度网盘).
+
+Please note that by requesting the dataset, you confirm that you have read, understood, and agree to be bound by the terms of the agreement.
+
+**Agreement**
+
+1. The SingingHead dataset is available for **non-commercial** research purposes only.
+
+2. You agree **not to** reproduce, modified, duplicate, copy, sell, trade, resell or exploit any portion of the images and any portion of the derived data for commercial purposes.
+
+3. You agree **not to** further copy, publish or distribute any portion of the SingingHead dataset to any third party for any purpose. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+
+4. Shanghai Jiao Tong University reserves the right to terminate your access to the SingingHead dataset at any time.
+
 
 ### Overview
 The SingingHead dataset is a large-scale 4D dataset for singing head animation. It contains more than 27 hours of synchronized singing video, 3D facial motion, singing
