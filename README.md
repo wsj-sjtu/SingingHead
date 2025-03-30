@@ -58,8 +58,8 @@ SingingHead
 If you use this dataset, please consider citing
 ```
 @article{wu2023singinghead,
-  title={SingingHead: A Large-scale 4D Dataset for Singing Head Animation},
-  author={Wu, Sijing and Li, Yunhao and Zhang, Weitian and Jia, Jun and Zhu, Yucheng and Yan, Yichao and Zhai, Guangtao},
+  title={Singinghead: A large-scale 4d dataset for singing head animation},
+  author={Wu, Sijing and Li, Yunhao and Zhang, Weitian and Jia, Jun and Zhu, Yucheng and Yan, Yichao and Zhai, Guangtao and Yang, Xiaokang},
   journal={arXiv preprint arXiv:2312.04369},
   year={2023}
 }
