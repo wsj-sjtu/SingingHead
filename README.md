@@ -31,7 +31,7 @@ Please note that by requesting the dataset, you confirm that you have read, unde
 The SingingHead dataset is a large-scale 4D dataset for singing head animation. It contains more than 27 hours of synchronized singing video, 3D facial motion, singing
 audio, and background music collected from 76 subjects. 
 The video is captured in 30fps and cropped into a resolution of 1024×1024.
-The 3D facial motion is represented by 59-dimensional [FLAME](https://flame.is.tue.mpg.de/) parameters (50 expression + 3 neck pose + 3 jaw pose).
+The 3D facial motion is represented by 59-dimensional [FLAME](https://flame.is.tue.mpg.de/) parameters (50 expression + 3 global pose + 3 neck pose + 3 jaw pose).
 All the data sequences are cut into equal-length 8s segments, resulting in a total of 12196 sequences.
 
 ### Data Structure
