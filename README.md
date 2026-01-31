@@ -69,7 +69,13 @@ eval_folder
 ```
 
 ### 3D metrics
-Please refer to `/metrics/calculate_3d_metrics.py`.
+First, download the [FLAME model](https://flame.is.tue.mpg.de/download.php) (FLAME 2020), and put the generic_model.pkl file to `/metrics/metric_3d/FLAME/data/`.
+
+Then, refer to `/metrics/calculate_3d_metrics.py`.
+
+
+## Acknowledgements
+Some code snippets are borrowed from or adapted based on [DECA](https://github.com/yfeng95/DECA), [CodeTalker](https://github.com/Doubiiu/CodeTalker), and [Bailando](https://github.com/lisiyao21/Bailando). We thank all the authors for their great work and repos.
 
 
 ## Citation
