@@ -63,8 +63,8 @@ eval_folder
 ├── input_audio
 └── generated
     ├── gt_videos
-    ├── method1_generaed_videos
-    ├── method2_generaed_videos
+    ├── method1_generated_videos
+    ├── method2_generated_videos
     └── ...
 ```
 
