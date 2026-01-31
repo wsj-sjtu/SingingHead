@@ -1,5 +1,5 @@
 # SingingHead: A Large-scale 4D Dataset for Singing Head Animation
-## [arXiv](https://arxiv.org/pdf/2312.04369.pdf) | [Project Page](https://wsj-sjtu.github.io/SingingHead/) | [Dataset](https://huggingface.co/datasets/Human-X/SingingHead)
+## [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11208618) | [Project Page](https://wsj-sjtu.github.io/SingingHead/) | [Dataset](https://huggingface.co/datasets/Human-X/SingingHead)
 
 <img src="assets/teaser.png" /> 
 
@@ -69,11 +69,11 @@ eval_folder
 ```
 
 ### 3D metrics
-
+Please refer to `/metrics/calculate_3d_metrics.py`.
 
 
 ## Citation
-If you use this dataset, please consider citing
+If you find our dataset or code helpful, please consider citing
 ```
 @article{wu2025singinghead,
   title={Singinghead: A large-scale 4d dataset for singing head animation},
