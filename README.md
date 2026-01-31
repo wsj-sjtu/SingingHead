@@ -57,7 +57,7 @@ SingingHead
 
 ## Evaluation metrics
 ### 2D metrics
-Organize the generation results according to the fllowing structure, and then run `python /metrics/calculate_2d_metrics.py`. The metric calculation results for all methods will be saved to `/eval_folder/metric_results`.
+Organize the generation results according to the following structure, and then run `python /metrics/calculate_2d_metrics.py`. Metric calculation results for all methods will be saved to `/eval_folder/metric_results`.
 ```
 eval_folder
 ├── input_audio
