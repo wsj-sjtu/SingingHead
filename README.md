@@ -4,7 +4,7 @@
 <img src="assets/teaser.png" /> 
 
 ## TODO
-- [ ] Release the codes for calculating the metrics of two benchmarks.
+- [x] Release the codes for calculating the metrics of two benchmarks.
 - [ ] Release the scripts for visualizing the 3D facial motion.
 - [x] Release the SingingHead dataset.
 
@@ -53,6 +53,24 @@ SingingHead
     ├── id0_10_0_0_bgm.wav
     └── ...
 ```
+
+
+## Evaluation metrics
+### 2D metrics
+Organize the generation results according to the fllowing structure, and then run `python /metrics/calculate_2d_metrics.py`. The metric calculation results for all methods will be saved to `/eval_folder/metric_results`.
+```
+eval_folder
+├── input_audio
+└── generated
+    ├── gt_videos
+    ├── method1_generaed_videos
+    ├── method2_generaed_videos
+    └── ...
+```
+
+### 3D metrics
+
+
 
 ## Citation
 If you use this dataset, please consider citing
