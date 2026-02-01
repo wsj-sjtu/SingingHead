@@ -1,8 +1,3 @@
-"""
-Reference: https://github.com/Khrylx/DLow/blob/master/motion_pred/eval.py
-"""
-
-
 import os
 import numpy as np
 import pandas
